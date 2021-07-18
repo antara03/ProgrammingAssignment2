@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 # makeCacheMatrix lets user set the value of a matrix within it's scope.
 # It gets the value of matrix, cacheSolve then retrives the matrix from make..
 # to check if the inverse exists in the cache if so, cache... returns the inverse
